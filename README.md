@@ -4,10 +4,10 @@
 
 <h1 align="center">Notchverse Recorder</h1>
 
-<p align="center">Record your screen, your voice and your face, then make it look good.<br>The screen recorder that comes with Notchverse.</p>
+<p align="center">Record your screen, your voice and your face, then make it look good.<br>The screen recorder that comes with <a href="https://notchverse.com">Notchverse</a>.</p>
 
 <p align="center">
-  <a href="../../releases/latest"><b>Download for Mac</b></a> · Apple Silicon · macOS 14 or later · Free
+  <a href="https://notchverse.com"><b>notchverse.com</b></a> · <a href="../../releases/latest">Download the recorder</a> · Apple Silicon · macOS 14 or later
 </p>
 
 <p align="center">
